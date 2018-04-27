@@ -8,6 +8,7 @@ group: navigation
 
 ## OpenTX
 [OpenTX GitHub Project](https://github.com/opentx/opentx)  
+[OpenTX RocketChat](https://chat.open-tx.org)  
 [OpenTX University](http://open-txu.org)  
 [OpenTX RSS Feed](rss.xml)  
 [OpenTX Development Wiki](https://github.com/opentx/opentx/wiki)  
@@ -24,8 +25,8 @@ group: navigation
 </div>
 
 ## OpenTX Nightly Builds
-[2.1 - 'master' branch](http://downloads-21.open-tx.org/nightly/companion)  
-[2.2 - 'next' branch](http://downloads-22.open-tx.org/nightly/companion)  
+[2.1 - 'previous' branch](http://downloads-21.open-tx.org/nightly/companion)  
+[2.2 - 'current' branch](https://downloads.open-tx.org/2.2/nightlies/companion/)  
 
 ## OpenTX Developers Mailing Lists
 [opentx-dev](https://groups.google.com/forum/#!forum/opentx-dev) (all commits notifications are sent there)  
@@ -34,6 +35,9 @@ group: navigation
 [opentx-doc](https://groups.google.com/forum/#!forum/opentx-doc) (for people working on the docs)
 
 ## Community
+[OpenTX 2.2 documentation](http://openrcforums.com/forum/viewtopic.php?f=45&t=10905) comprehensive documentation by Martin Phillips  
 [openRCforums](http://openrcforums.com) developer forum  
 [er9x](http://code.google.com/p/er9x) project home page  
 [ersky9x](http://code.google.com/p/ersky9x) project home page  
+[SkyRaccoon](http://www.skyraccoon.com/) SkyRaccoon model icons site
+

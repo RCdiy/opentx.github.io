@@ -7,7 +7,6 @@ group: navigation
 {% include JB/setup %}
 
 The following radios and radio boards are compatible with OpenTX. 
-
 <img src="assets/images/head_xlite.png">
 
 <table><tr><td style="width:220px"><img src="assets/images/img_xlite.jpg"></td><td>
@@ -19,6 +18,7 @@ No Pots<br>
 2 Sliders<br>
 S.Port<br>
 Haptic vibration<br>
+RAM  128K
 </p>
 </td></tr></table>
 
@@ -35,6 +35,7 @@ Colour outdoor TFT 480x272<br>
 Haptic vibration<br>
 Wireless trainer<br>
 2 Internal antennas<br>
+RAM 8MB
 </p>
 </td></tr></table>
 
@@ -47,9 +48,11 @@ Colour outdoor TFT 480x272<br>
 8 Switches 6 x 3-position, 1 momentary, 1 x 2-position<br>
 3 Pots 1 x 6-position, 2 smooth<br>
 2 Sliders 2 rear, 2 front<br>
+2 extra trims<br>
 GPS and 6 axis sensors<br>
 Haptic vibration<br>
 Wireless trainer<br>
+RAM 8MB
 </p>
 </td></tr></table>
 
@@ -64,6 +67,7 @@ Black & White LCD 128x64<br>
 No Sliders<br>
 S.Port<br>
 Haptic vibration<br>
+RAM  128K
 </p>
 </td></tr></table>
 
@@ -79,7 +83,8 @@ Bluetooth support<br>
 Safe start and safe shutdown power switch<br>
 Haptic vibration <br>
 Improved audio circuits<br>
-</p>
+RAM  192K
+  </p>
 </td></tr></table>
 
 <img src="assets/images/head_taranisplus.png">
@@ -91,7 +96,8 @@ Haptic vibration <br>
 Multi colored LCD background light <br>
 Improved LCD display  <br>
 Improved audio circuits <br>
-</p>
+RAM  128K
+  </p>
 </td></tr></table>
 
 <img src="assets/images/head_taranis.png">
@@ -105,7 +111,8 @@ ARM Cortex M3 32-bit 120MHz  <br>
 Telemetry  <br>
 Advanced audio functions (voice files from SD, vario, ...)  <br>
 SD data logger  <br>
-</p>
+RAM  128K
+  </p>
 </td></tr></table>
 
 <img src="assets/images/head_9xrpro.png">

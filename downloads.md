@@ -37,10 +37,10 @@ provide no changelogs for these builds. To get a rough idea about the
 changes you can look at the
 [git commit log](https://github.com/opentx/opentx/commits/2.2).
 
-[macOS nightly builds](http://downloads-22.open-tx.org/nightlies/companion/macosx/),
-[Windows nightly builds](http://downloads-22.open-tx.org/nightlies/companion/windows/)
+[macOS nightly builds](http://downloads.open-tx.org/2.2/nightlies/companion/macosx/),
+[Windows nightly builds](http://downloads.open-tx.org/2.2/nightlies/companion/windows/)
 and
-[Linux nightly builds](http://downloads-22.open-tx.org/nightlies/companion/linux/)
+[Linux nightly builds](http://downloads.open-tx.org/2.2/nightlies/companion/linux/)
 
 [SD Card contents for nightly builds](http://downloads.open-tx.org/2.2/nightlies/sdcard/)
 
@@ -113,7 +113,7 @@ Sound packs can be downloaded either through companion (the Download dialog will
 
 [Sound packs for OpenTX 2.0](http://voices-20.open-tx.org)  
 [Sound packs for OpenTX 2.1](http://voices-21.open-tx.org)  
-[SD card contents for OpenTX 2.2, with sound packs](http://downloads.open-tx.org/2.2/sdcard/)
+[SD card contents for OpenTX 2.2, with sound packs](https://downloads.open-tx.org/2.2/sdcard/)
 
 
 ## About OpenTX versions
@@ -146,9 +146,9 @@ Switching to the OpenTX team's releases and using tools like companion should be
 </ul>
 If you want to switch your firmware to OpenTX and keep the known behavior you should stick to those major versions.
 <ul>
-  <li>The Taranis Plus will not work with OpenTX versions older than 2.0.10
-  <li>Taranis X9E will not work with OpenTX versions older than 2.1.0. 
-  <li>The FrSKY Horus X12S and Taranis Q X7 will not work with OpenTX versions older than 2.2.
+  <li>The Taranis Plus will not work with OpenTX versions older than 2.0.10</li>
+  <li>Taranis X9E will not work with OpenTX versions older than 2.1.0. </li>
+  <li>The FrSKY Horus X12S and Taranis Q X7 will not work with OpenTX versions older than 2.2.</li>
 </ul>
 
 
@@ -211,7 +211,7 @@ Before using Lua you should read the [Lua Instructions](lua-instructions.html)
 {% endfor %}
 </ul>
 
-For users wanting to upgrade a Taranis from a pre-2.0 version (either OpenTX or the FrSky firmware) who can't get the DFU driver installed with Zadig but have a working "DfuSe Demonstration" flashing setup (as per FrSky instructions), a copy of OpenTX 2.0.5 packaged in a .dfu file is available [here](http://downloads-20.open-tx.org/companion/opentx-taranis-en-2.0.5.dfu). Flash this using the FrSky method, then upgrade to the latest available version using the bootloader.
+For users wanting to upgrade a Taranis from a pre-2.0 version (either OpenTX or the FrSky firmware) who can't get the DFU driver installed with Zadig but have a working "DfuSe Demonstration" flashing setup (as per FrSky instructions), a copy of OpenTX 2.0.5 packaged in a .dfu file is available [here](http://downloads.open-tx.org/2.0/companion/opentx-taranis-en-2.0.5.dfu). Flash this using the FrSky method, then upgrade to the latest available version using the bootloader.
 
 
-<b>Except for the FrSKY Horus X12S all FrSKY Transmitters purchased new do not require a seperate Zadig or DFU driver install.<\b>
+<b>Except for the FrSKY Horus X12S all FrSKY Transmitters purchased new do not require a seperate Zadig or DFU driver install.</b>
